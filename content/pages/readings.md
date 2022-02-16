@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2bfd97d0-beee-0ee4-2ced-20c62556e771
 ---
@@ -113,7 +116,7 @@ Wilson, Fred. "Mining the Museum: Artists Look at Museums, Museums Look at Thems
 {{< tdopen >}}
 
 
-Destination Museum: The Bilbao Effect, with particular emphasis on the exhibitions [Primitivism in 20th Century Art, 1984](https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6081/releases/MOMA_1984_0017_17.pdf?2010), Magiciens de la Terre, 1989, and the new Quai Branly museum by Jean Nouvel, 2006
+Destination Museum: The Bilbao Effect, with particular emphasis on the exhibitions [Primitivism in 20{{< sup "th" >}} Century Art, 1984](https://www.moma.org/momaorg/shared/pdfs/docs/press_archives/6081/releases/MOMA_1984_0017_17.pdf?2010), Magiciens de la Terre, 1989, and the new Quai Branly museum by Jean Nouvel, 2006
 
 
 {{< tdclose >}}
