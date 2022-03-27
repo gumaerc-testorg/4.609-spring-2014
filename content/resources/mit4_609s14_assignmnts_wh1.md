@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d85d05b9-03d4-aa19-45b4-7b0eb4c1df65
 resourcetype: Document
 title: 'Writing Handout 1: Title, Thesis Statement and Claim Sentences'
 uid: 0a83ac67-50e1-400a-1ef6-cbb947131bcd

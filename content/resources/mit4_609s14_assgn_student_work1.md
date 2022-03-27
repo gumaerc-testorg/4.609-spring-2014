@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d85d05b9-03d4-aa19-45b4-7b0eb4c1df65
 resourcetype: Document
 title: '4.609 S14 Modern Authentication: An Exhibition'
 uid: ece47f21-67a5-6ee9-128e-7a3cf5376c8e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d85d05b9-03d4-aa19-45b4-7b0eb4c1df65
 resourcetype: Document
 title: 'Writing Handout 2: Style Sheet'
 uid: 574254b2-4df0-c56d-a036-44f82a8e65ea

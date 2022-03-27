@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d85d05b9-03d4-aa19-45b4-7b0eb4c1df65
 resourcetype: Document
 title: '4.609 S14 The Founding of the MFA: Myths and Realities'
 uid: dd0f50a4-2539-a84b-c742-a86190b804d4
