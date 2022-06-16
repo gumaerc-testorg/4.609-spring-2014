@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, examples
+  of student work, and writing resources.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,15 +21,15 @@ You are also expected to pursue a research project related to the course themes.
 
 ### Example Research Projects
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Modern Authentication: An Exhibition" (PDF - 2.0MB)]({{< baseurl >}}/resources/mit4_609s14_assgn_student_work1) by an MIT Student
+{{% resource_link ece47f21-67a5-6ee9-128e-7a3cf5376c8e "\"Modern Authentication: An Exhibition\" (PDF - 2.0MB)" %}} by an MIT Student
 
-["The Founding of the MFA: Myths and Realities" (PDF)]({{< baseurl >}}/resources/mit4_609s14_assgn_student_work2) by an MIT Student
+{{% resource_link dd0f50a4-2539-a84b-c742-a86190b804d4 "\"The Founding of the MFA: Myths and Realities\" (PDF)" %}} by an MIT Student
 
-["Final Paper: Art Museums in Maoist China" (PDF)]({{< baseurl >}}/resources/mit4_609s14_assgn_student_work3) by an MIT Student
+{{% resource_link b3551d38-3696-c1d7-f7be-3be37c8b435b "\"Final Paper: Art Museums in Maoist China\" (PDF)" %}} by an MIT Student
 
 Resources
 ---------
 
-[Writing Handout 1: Titles, Thesis Statement, and Claim Sentences (PDF)]({{< baseurl >}}/resources/mit4_609s14_assignmnts_wh1)
+{{% resource_link 0a83ac67-50e1-400a-1ef6-cbb947131bcd "Writing Handout 1: Titles, Thesis Statement, and Claim Sentences (PDF)" %}}
 
-[Writing Handout 2: Style Sheet (PDF)]({{< baseurl >}}/resources/mit4_609s14_assignmnts_wh2)
+{{% resource_link 574254b2-4df0-c56d-a036-44f82a8e65ea "Writing Handout 2: Style Sheet (PDF)" %}}
