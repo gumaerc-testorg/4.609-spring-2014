@@ -2,6 +2,7 @@
 content_type: resource
 description: This file is related to Style Sheet.
 file: /courses/4-609-the-art-museum-history-theory-controversy-spring-2014/574254b24df0c56da03644f82a8e65ea_MIT4_609S14_assignmnts_wh2.pdf
+file_size: 301586
 file_type: application/pdf
 learning_resource_types:
 - Assignments
