@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-609-the-art-museum-history-theory-controversy-spring-2014/b3551d383696c1d7f7be3be37c8b435b_MIT4_609S14_assgn_student_work3.pdf
+file_size: 116450
 file_type: application/pdf
 learning_resource_types:
 - Assignments
