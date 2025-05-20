@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/dd0f50a42539a84bc742a86190b804d4_MIT4_609S14_assgn_Student_work2.pdf
+file: /courses/4-609-the-art-museum-history-theory-controversy-spring-2014/dd0f50a42539a84bc742a86190b804d4_MIT4_609S14_assgn_Student_work2.pdf
 file_size: 222859
 file_type: application/pdf
 learning_resource_types:
