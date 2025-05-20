@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file is related to Titles, Thesis Statement, and Claim Sentences.
-file: /ol-ocw-studio-app/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/0a83ac6750e1400a1ef6cbb947131bcd_MIT4_609S14_assignmnts_wh1.pdf
+file: /courses/4-609-the-art-museum-history-theory-controversy-spring-2014/0a83ac6750e1400a1ef6cbb947131bcd_MIT4_609S14_assignmnts_wh1.pdf
 file_size: 266209
 file_type: application/pdf
 learning_resource_types:
