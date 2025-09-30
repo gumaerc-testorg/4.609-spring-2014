@@ -30,12 +30,12 @@ Required Books
 --------------
 
 *   McClellan, Andrew. _Art Museum from Boullee to Bilbao_. University of California Press, 2008. ISBN: 9780520251267.
-*   Duncan, Carol. _Civilizing Rituals: Inside Public Art Museums_. Routledge, 1995. ISBN: 9780415070126. \[Preview with [Google Books](http://books.google.com/books?id=KxU1ZLnIzfcC&pg=PAfrontcover)\]
+*   Duncan, Carol. _Civilizing Rituals: Inside Public Art Museums_. Routledge, 1995. ISBN: 9780415070126. \[Preview with {{% resource_link "f56270ae-37c9-444f-9e04-379003f816ec" "Google Books" %}}\]
 
 Recommended Book
 ----------------
 
-*   Serrell, Beverly. _Exhibit Labels: An Interpretive Approach_. Altamira Press, 1996. \[Preview with [Google Books](http://books.google.com/books?id=wgKGCj63YiwC&pg=PAfrontcover)\]
+*   Serrell, Beverly. _Exhibit Labels: An Interpretive Approach_. Altamira Press, 1996. \[Preview with {{% resource_link "7267bccb-2c0a-49b9-a368-ac1f940a9871" "Google Books" %}}\]
 
 Grading
 -------
@@ -136,7 +136,7 @@ Museum, Nation, Citizen
 Guest Lecture: Sam Bardaouil and Till Fellrath. _Tea with Nefertiti, or How the Arts Shape Culture_
 {{< tdclose >}}
 {{< tdopen >}}
-Lecture of interest: [Matthew Rampley](http://www.birmingham.ac.uk/staff/profiles/historyofart/rampley-matthew.aspx), "[Museums and the Construction of Identities](https://www.birmingham.ac.uk/schools/lcahm/departments/historyofart/news/2014/rampley-harvard-lecture.aspx)"
+Lecture of interest: {{% resource_link "8d01d942-edf0-41fa-9b13-5551f9e56054" "Matthew Rampley" %}}, "{{% resource_link "04615321-f2dd-427a-b8cf-04c9e6535215" "Museums and the Construction of Identities" %}}"
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +184,7 @@ Project proposals and preliminary bibliographies due
 The Artist as Curator: A Discussion with Arlene Shechet on _Meissen Recast_
 {{< tdclose >}}
 {{< tdopen >}}
-Visit to [Rhode Island School of Design (RISD)](http://www.risd.edu/)
+Visit to {{% resource_link "4d82c24b-b17e-4ebf-979c-79c6a508ff0a" "Rhode Island School of Design (RISD)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,9 +210,9 @@ The Private Museum
 {{< tdopen >}}
 
 
-Visit to the [Isabella Stewart Gardner Museum](http://www.gardnermuseum.org/home).
+Visit to the {{% resource_link "1a354ba4-e5e5-4871-9a87-2ccecc4da777" "Isabella Stewart Gardner Museum" %}}.
 
-Tour and discussion with [Anne-Marie Eze](http://courtauld.academia.edu/AnneMarieEze), Associate Curator of Collections
+Tour and discussion with {{% resource_link "a999f486-8d80-49cd-8933-dd18f608693b" "Anne-Marie Eze" %}}, Associate Curator of Collections
 
 
 {{< tdclose >}}
@@ -228,7 +228,7 @@ Beyond the Nation: The Americas Galleries at the MFA
 {{< tdopen >}}
 
 
-Visit to the [Museum of Fine Arts](http://www.mfa.org/).
+Visit to the {{% resource_link "9cca97ef-c9ec-4535-a4ec-e26e8f225431" "Museum of Fine Arts" %}}.
 
 Due: Response paper to the Gardner Museum
 
@@ -244,7 +244,7 @@ Due: Response paper to the Gardner Museum
 Lightning Talks
 {{< tdclose >}}
 {{< tdopen >}}
-In-class: [Lightning talks](http://en.wikipedia.org/wiki/Lightning_talk) of ongoing research projects
+In-class: {{% resource_link "10b659d5-6b2d-4cd8-986b-afa0bc0ce86d" "Lightning talks" %}} of ongoing research projects
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +265,7 @@ In-class: Additional lightning talks if necessary
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Sneak Preview of new [Harvard University Art Museums](http://www.harvardartmuseums.org/) with Elizabeth Rudy, Theodore Rousseau Assistant Curator of European Paintings
+Sneak Preview of new {{% resource_link "fd0ceb3b-56ee-4aef-83c5-859318c31686" "Harvard University Art Museums" %}} with Elizabeth Rudy, Theodore Rousseau Assistant Curator of European Paintings
 {{< tdclose >}}
 {{< tdopen >}}
 Final projects due
